@@ -1,0 +1,75 @@
+RAPPORT DE RECHERCHE — L'IMPACT DE L'INTELLIGENCE ARTIFICIELLE SUR LE MARCHÉ DU TRAVAIL
+Observatoire Numérique Européen — Janvier 2025
+
+Résumé exécutif
+---------------
+Ce rapport analyse l'impact de l'intelligence artificielle générative sur l'emploi en Europe entre 2022 et 2024, à partir d'une étude menée auprès de 2 400 entreprises dans 8 pays. Les résultats montrent une transformation profonde des métiers, avec des effets contrastés selon les secteurs et les niveaux de qualification.
+
+Contexte et méthodologie
+-------------------------
+L'étude a été conduite entre septembre et décembre 2024 par une équipe de 12 chercheurs coordonnée par la Dr. Elena Vasquez (Université d'Amsterdam) et le Dr. Marc Fontaine (Sciences Po Paris). Les données ont été collectées via des entretiens structurés, des questionnaires en ligne et l'analyse de 18 000 offres d'emploi publiées entre janvier 2022 et octobre 2024.
+
+Pays couverts : France, Allemagne, Pays-Bas, Espagne, Italie, Pologne, Suède, Belgique.
+Secteurs analysés : finance, santé, droit, éducation, industrie manufacturière, logistique, marketing, service client.
+
+Principaux résultats
+---------------------
+1. Automatisation partielle vs. suppression de postes
+
+Contrairement aux prédictions alarmistes de 2022, seuls 7 % des postes analysés ont été supprimés directement à cause de l'IA sur la période. En revanche, 43 % des postes ont subi une transformation significative de leurs tâches quotidiennes. Les métiers les plus touchés sont les analystes financiers junior (68 % des tâches automatisables selon les DRH interrogés), les juristes en droit des contrats (54 %), et les agents de service client niveau 1 (71 %).
+
+2. Création de nouveaux rôles
+
+L'étude identifie 14 nouveaux profils métier apparus massivement depuis 2023 :
+- AI Prompt Engineer (23 000 offres en Europe en 2024)
+- AI Trainer / Data Annotator (41 000 offres)
+- AI Ethics Officer (8 700 offres)
+- Automation Consultant (31 000 offres)
+- LLM Integration Specialist (17 500 offres)
+
+Le salaire médian de ces nouveaux profils est de 58 000 € annuels en France, contre 44 000 € pour les profils traditionnels équivalents.
+
+3. Inégalités selon le niveau de qualification
+
+Les travailleurs sans diplôme universitaire sont trois fois plus exposés à une automatisation de leurs tâches que les cadres supérieurs. Cependant, l'étude note que dans le secteur de la logistique, des opérateurs non-diplômés ont été requalifiés en "superviseurs de robots" avec une augmentation salariale moyenne de 22 % en 6 mois.
+
+4. Adoption par pays
+
+L'Allemagne affiche le taux d'adoption de l'IA en entreprise le plus élevé (67 % des entreprises de plus de 50 salariés utilisent au moins un outil IA en production). La France se situe à 48 %, en dessous de la moyenne européenne de 52 %. La Pologne connaît la croissance la plus rapide : +34 points en 18 mois.
+
+5. Résistance et freins
+
+Les principaux freins à l'adoption identifiés sont :
+- Manque de compétences internes (cité par 61 % des DRH)
+- Inquiétudes liées au RGPD et à la confidentialité des données (54 %)
+- Coût d'intégration jugé trop élevé (48 %)
+- Résistance des équipes au changement (39 %)
+- Manque de confiance dans la fiabilité des outils (33 %)
+
+Cas d'usage documentés
+------------------------
+Plusieurs cas concrets ont été analysés en profondeur :
+
+BNP Paribas (France) : déploiement d'un agent IA pour l'analyse de contrats en mars 2024. Résultat : temps d'analyse réduit de 4 heures à 23 minutes par contrat. 340 juristes junior concernés, dont 280 ont été repositionnés sur des tâches à plus forte valeur ajoutée.
+
+Siemens (Allemagne) : utilisation de la vision par ordinateur dans 3 usines pour le contrôle qualité. Taux de défauts détectés passé de 91 % à 99,3 %. 120 postes de contrôleurs supprimés, 45 postes de techniciens IA créés.
+
+Hôpital universitaire de Stockholm (Suède) : agent IA d'aide au diagnostic radiologique depuis janvier 2024. Réduction du temps de lecture des IRM de 40 %. Aucun poste supprimé — les radiologues traitent 60 % de dossiers supplémentaires avec le même effectif.
+
+Recommandations
+----------------
+Les chercheurs formulent six recommandations à destination des décideurs publics et des entreprises :
+
+1. Investir massivement dans la formation continue, en particulier pour les travailleurs des secteurs les plus exposés (service client, droit, finance).
+2. Créer un cadre réglementaire européen harmonisé pour l'IA en entreprise, au-delà de l'EU AI Act existant.
+3. Encourager les partenariats université-entreprise pour anticiper les besoins en compétences à 3-5 ans.
+4. Mettre en place des mécanismes de partage des gains de productivité liés à l'IA avec les salariés.
+5. Financer la recherche sur les biais algorithmiques, notamment dans les processus de recrutement automatisé.
+6. Développer des indicateurs standardisés pour mesurer l'impact réel de l'IA sur l'emploi à l'échelle européenne.
+
+Conclusion
+-----------
+L'intelligence artificielle ne détruit pas massivement l'emploi — elle le transforme. La vitesse de cette transformation est cependant sans précédent historique. Les entreprises et les États qui anticipent et investissent dans la montée en compétences s'en sortent significativement mieux que ceux qui attendent. La fenêtre d'adaptation est estimée à 3-5 ans par la majorité des experts consultés.
+
+Contact : recherche@observatoire-numerique.eu
+DOI : 10.5281/zenodo.2025.01.rapport-ia-emploi
